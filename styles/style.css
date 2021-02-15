@@ -27,7 +27,7 @@
 }
 
 .img-form {
-background: url(../bg.jpg);
+                                background: url(bg[1].jpg);
 				background-size: cover;
 				background-repeat: no-repeat;
 }
